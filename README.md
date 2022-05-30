@@ -5,7 +5,7 @@
 - 📫 How to reach me: LinkedIn - www.linkedin.com/in/aakash-thatte
 
 
-[![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=sky-2002)](https://github.com/sky-2002/github-readme-stats)
+[![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=sky-2002&query_private=true)](https://github.com/sky-2002/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=sky-2002)
 
