@@ -6,6 +6,8 @@
 
 
 [![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=sky-2002)](https://github.com/sky-2002/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=sky-2002)
 <!---
 sky-2002/sky-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
