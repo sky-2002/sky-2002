@@ -9,7 +9,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sky-2002&theme=solarized-light)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-2002&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=sky-2002)
 <!---
