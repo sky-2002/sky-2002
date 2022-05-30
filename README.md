@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on open source projects that relate to my interests.
 - 📫 How to reach me: LinkedIn - www.linkedin.com/in/aakash-thatte
 
+
+[![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=sky-2002)](https://github.com/sky-2002/github-readme-stats)
 <!---
 sky-2002/sky-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
