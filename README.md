@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sky-2002)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sky-2002)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sky-2002&theme=solarized-light)](https://git.io/streak-stats)
 <!---
 sky-2002/sky-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
