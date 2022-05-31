@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/>
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=030A0E&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aakash+Thatte+)](https://git.io/typing-svg)
 - 👀 I’m interested in open source, particularly in data science, NLP, big data, vector databases, graph databases etc.
 - 🌱 I’m currently learning [Weaviate](https://weaviate.io/), [Neo4j](https://neo4j.com/), [Kafka](https://kafka.apache.org/), [InfluxDB](https://www.influxdata.com/).
