@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/><br>
+  <img src="https://komarev.com/ghpvc/?username=sky-2002&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=030A0E&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aakash+Thatte+)](https://git.io/typing-svg)
@@ -32,7 +34,7 @@ The code below shows top languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-2002&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=sky-2002)
+<!---![](https://komarev.com/ghpvc/?username=sky-2002)--->
 <!---
 sky-2002/sky-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
