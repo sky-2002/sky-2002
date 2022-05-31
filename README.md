@@ -7,7 +7,12 @@
 - 👀 I’m interested in open source, particularly in data science, NLP, big data, vector databases, graph databases etc.
 - 🌱 I’m currently learning [Weaviate](https://weaviate.io/), [Neo4j](https://neo4j.com/), [Kafka](https://kafka.apache.org/), [InfluxDB](https://www.influxdata.com/).
 - 💞️ I’m looking to collaborate on open source projects that relate to my interests.
-- 📫 How to reach me: LinkedIn - www.linkedin.com/in/aakash-thatte
+- 📫 How to reach me: <div id="badges">
+  <a href="https://www.linkedin.com/in/aakash-thatte">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
+
 
 
 <!---
