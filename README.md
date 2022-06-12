@@ -35,7 +35,7 @@ The code below shows github streak
 <!---
 The code below shows top languages used
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-2002&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<?---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-2002&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)--->
 
 
 <!---![](https://komarev.com/ghpvc/?username=sky-2002)--->
