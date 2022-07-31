@@ -15,6 +15,8 @@
 - 📫 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/aakash-thatte">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  
+ Fun fact: "Git" is a simple three-letter word. But it took me 3 months to understand its workflow 😂.
 </div>
 
 
