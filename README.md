@@ -10,7 +10,8 @@
 </div>
 
 - 👀 I’m interested in open source, particularly in data science, NLP, big data, vector databases, graph databases etc.
-- 🌱 I’m currently learning [Neo4j](https://neo4j.com/), [Kafka](https://kafka.apache.org/), MongoDB.
+- 👀 My skills include ML using skikit-learn, tensorflow, Neo4j GDS etc. I love to make interactive visualizations to present and process data.
+- 🌱 I’m a [Neo4j Certified professional](https://graphacademy.neo4j.com/certificates/043922bbae6bca111f55f6ef923ccd9f890bf7c6c5762ff0b75a988f34d668d5.pdf).
 - 💞️ I’m looking to collaborate on open source projects that relate to my interests.
 - 📫 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/aakash-thatte">
