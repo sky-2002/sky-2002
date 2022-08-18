@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/><br>
-  <img src="https://komarev.com/ghpvc/?username=sky-2002&style=flat-square&color=blue" alt=""/>
+  <!--- <img src="https://komarev.com/ghpvc/?username=sky-2002&style=flat-square&color=blue" alt=""/> --->
 </div>
 
 
