@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/><br>
+<!-- <div id="header" align="center"> -->
+<!--   <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="100"/><br> -->
   <!--- <img src="https://komarev.com/ghpvc/?username=sky-2002&style=flat-square&color=blue" alt=""/> --->
-</div>
+<!-- </div> -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=030A0E&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aakash+Thatte+)](https://git.io/typing-svg)
@@ -10,23 +10,22 @@
 </div>
 --->
 
-- 👀 I’m interested in open source, particularly in data science, NLP, big data, vector databases, graph databases etc.
-- 👀 My skills include ML using skikit-learn, tensorflow, Neo4j GDS etc. I love to make interactive visualizations to present and process data.
+- 👀 I’m interested in Machine learning, NLP and Databases. 
+- 👀 Currently exploring NLP, graph ML and explainability of ML models.
 
-  **Data visualization**:<br>
- <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"> <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"><br>
+  **Data visualization and processing**:<br>
+ <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"> <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"><br>
  
-  **Languages**:<br>
+  **Programming Languages**:<br>
  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
  
-  **ML frameworks and libraries**:<br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"><br>
+  **ML frameworks**:<br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <br>
   
   **Extras**:<br>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><br><br>
  
-- 🌱 I’m a [Neo4j Certified professional](https://graphacademy.neo4j.com/certificates/043922bbae6bca111f55f6ef923ccd9f890bf7c6c5762ff0b75a988f34d668d5.pdf).
-- 💞️ I’m looking to collaborate on open source projects that relate to my interests.
+- 🌱 [Neo4j Certified professional](https://graphacademy.neo4j.com/certificates/043922bbae6bca111f55f6ef923ccd9f890bf7c6c5762ff0b75a988f34d668d5.pdf).
 - 📫 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/aakash-thatte">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
