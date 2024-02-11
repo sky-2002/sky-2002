@@ -32,7 +32,7 @@ I’m interested in Machine learning, NLP and Databases.
   <a href="https://www.linkedin.com/in/aakash-thatte">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="thatteaakash@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href="https://sky-2002.github.io/about/"><img src="https://img.shields.io/badge/Personal_Website-blue"></a>
 </div>
 
 
