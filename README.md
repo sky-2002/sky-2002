@@ -41,8 +41,6 @@ I’m interested in Machine learning, NLP and Databases.
 The code below shows github stats
 --->
 [![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=sky-2002&query_private=true&show_icons=true)](https://github.com/sky-2002/github-readme-stats)   &nbsp;     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sky-2002&theme=solarized-light)](https://git.io/streak-stats)
-
-
 <!---
 The code below shows github streak
 
