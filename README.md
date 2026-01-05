@@ -4,13 +4,13 @@
 <!-- </div> -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=030A0E&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aakash+Thatte+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=030A0E&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Aakash+)](https://git.io/typing-svg)
 <!---<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 --->
 
-I’m interested in Machine learning, NLP and Databases. 
+<!-- I’m interested in Machine learning, NLP and Databases. --> 
 
 <!--
   **Data visualization and processing**:<br>
@@ -31,8 +31,8 @@ I’m interested in Machine learning, NLP and Databases.
 📫 Contact: <div id="badges">
   <a href="https://www.linkedin.com/in/aakash-thatte">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="thatteaakash@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://sky-2002.github.io/about/"><img src="https://img.shields.io/badge/Personal_Website-blue"></a>
+  <!-- <a href="thatteaakash@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+  <!-- <a href="https://sky-2002.github.io/about/"><img src="https://img.shields.io/badge/Personal_Website-blue"></a> -->
 </div>
 
 
